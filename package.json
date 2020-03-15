@@ -21,6 +21,7 @@
   "dependencies": {
     "@sendgrid/mail": "^6.5.1",
     "bcryptjs": "^2.4.3",
+    "eb-disable-npm": "^1.0.1",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.4.1",
