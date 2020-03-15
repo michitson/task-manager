@@ -1,0 +1,6 @@
+node_modules/
+tests/
+readme.txt
+.gitignoe
+.elasticbeanstalk/
+.ebextensions/
